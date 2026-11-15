@@ -6,4 +6,4 @@ El informe permite explorar la evolución mensual de las ventas, comparar las ca
 
 ![olist_sales_performance_bi](images/olist_sales_performance_bi.png)
 
-[Ver archivo de Power BI](powerbi/olist_sales_dashboard.pbix)  
+[Ver archivo de Power BI](olist_sales_performance.pbix)
